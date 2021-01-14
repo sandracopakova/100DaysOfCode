@@ -1,7 +1,7 @@
 <h1>100 Days Of Code - Log</h1>
 
 
-<h2>Day 0: January 14, 2020</h2>
+<h2>Day 0: January 14, 2021</h2>
 
 Today's Progress: getting to know github & rebuild a scratch project Munch (from udemy course "Coding for beginners")
 
