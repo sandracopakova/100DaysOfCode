@@ -21,9 +21,9 @@ Link to work: Udemy courses/YT
 
 <h2>#Day1: January 16, 2021</h2>
 
-Today's Progress: starting with simple things with command line
+Today's Progress: starting with simple things with command line, installing Atom & Git
 
-Thoughts: today is absolutly better than yesterday!
+Thoughts: today is absolutely better than yesterday!
 
 Link to work: https://naucse.python.cz/2017/pyladies-praha-jaro/
 
