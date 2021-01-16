@@ -19,7 +19,7 @@ Thoughts: I don't know what am I doing?!
 Link to work: Udemy courses/YT
 
 
-<h2>#Day1: January 15, 2021</h2>
+<h2>#Day1: January 16, 2021</h2>
 
 Today's Progress: starting with simple things with command line
 
