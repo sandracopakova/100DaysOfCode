@@ -29,6 +29,15 @@ Link to work: https://naucse.python.cz/2017/pyladies-praha-jaro/
 
 
 
+<h2>#Day: January 17, 2021</h2>
+
+Today's Progress: the 60-minute intro to coding class on SheCodes
+
+Thoughts: that will be great to pay their course... (I am applying for a discount because I am unemployed - will see)
+
+Link to work: https://www.shecodes.io/webinars/
+
+
 <h2>#Day: January , 2021</h2>
 
 Today's Progress: 
