@@ -19,7 +19,7 @@ Thoughts: I don't know what am I doing?!
 Link to work: Udemy courses/YT
 
 
-<h2>#Day1: January 16, 2021</h2>
+<h2>#Day2: January 16, 2021</h2>
 
 Today's Progress: starting with simple things with command line, installing Atom & Git
 
@@ -29,7 +29,7 @@ Link to work: https://naucse.python.cz/2017/pyladies-praha-jaro/
 
 
 
-<h2>#Day2: January 17, 2021</h2>
+<h2>#Day3: January 17, 2021</h2>
 
 Today's Progress: the 60-minute intro to coding class on SheCodes
 
@@ -38,7 +38,7 @@ Thoughts: that will be great to pay their course... (I am applying for a discoun
 Link to work: https://www.shecodes.io/webinars/
 
 
-<h2>#Day3: January 18, 2021</h2>
+<h2>#Day4: January 18, 2021</h2>
 
 Today's Progress: I'm trying codecademy free trial -> skill path: Build a Website with HTML, CSS, and Github Pages
 
