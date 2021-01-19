@@ -47,6 +47,15 @@ Thoughts: Easy peasy...
 Link to work: https://www.codecademy.com/learn/paths/learn-how-to-build-websites
 
 
+<h2>#Day5: January 19 , 2021</h2>
+
+Today's Progress: Tables, Selectors and Visual Rules
+
+Thoughts: A little refresh for me :-)
+
+Link to work: https://www.codecademy.com/learn/paths/learn-how-to-build-websites
+
+
 <h2>#Day: January , 2021</h2>
 
 Today's Progress: 
