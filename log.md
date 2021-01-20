@@ -56,6 +56,15 @@ Thoughts: A little refresh for me :-)
 Link to work: https://www.codecademy.com/learn/paths/learn-how-to-build-websites
 
 
+<h2>#Day6: January 20, 2021</h2>
+
+Today's Progress: What is the internet?, HTML Forms, Intro to Local Website Development
+
+Thoughts: A lot of reading, all beginnings are difficult :D
+
+Link to work: codecademy.com
+
+
 <h2>#Day: January , 2021</h2>
 
 Today's Progress: 
