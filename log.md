@@ -65,6 +65,15 @@ Thoughts: A lot of reading, all beginnings are difficult :D
 Link to work: codecademy.com
 
 
+<h2>#Day7: January 21, 2021</h2>
+
+Today's Progress: What is Web Development?
+
+Thoughts: Great lesson and I already know than I'm gonna love JS!
+
+Link to work: codecademy.com
+
+
 <h2>#Day: January , 2021</h2>
 
 Today's Progress: 
@@ -72,3 +81,4 @@ Today's Progress:
 Thoughts: 
 
 Link to work: 
+
