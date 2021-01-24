@@ -74,6 +74,33 @@ Thoughts: Great lesson and I already know than I'm gonna love JS!
 Link to work: codecademy.com
 
 
+<h2>#Day8: January 22, 2021</h2>
+
+Today's Progress: What is Front-End Development?
+
+Thoughts: My work is done for today
+
+Link to work: codecademy.com
+
+
+<h2>#Day9: January 23, 2021</h2>
+
+Today's Progress: Learn HTML: Elements, Structure
+
+Thoughts: Too tired, too difficult today
+
+Link to work: codecademy.com
+
+
+<h2>#Day10: January 24, 2021</h2>
+
+Today's Progress: Semantic HTML
+
+Thoughts: I have to learn earlier. The same as yesterday, I'm too tired...
+
+Link to work: codecademy.com
+
+
 <h2>#Day: January , 2021</h2>
 
 Today's Progress: 
