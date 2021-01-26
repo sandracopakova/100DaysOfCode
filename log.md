@@ -101,7 +101,25 @@ Thoughts: I have to learn earlier. The same as yesterday, I'm too tired...
 Link to work: codecademy.com
 
 
-<h2>#Day: January , 2021</h2>
+<h2>#Day11: January 25, 2021</h2>
+
+Today's Progress: Learn CSS: Selectors and Visual Rules, Semantic CSS, Colors
+
+Thoughts: hsla is a great thing!
+
+Link to work: codecademy.com, https://developer.mozilla.org/en-US/docs/Web/CSS, https://maintainablecss.com/chapters/semantics/
+
+
+<h2>#Day12: January 26, 2021</h2>
+
+Today's Progress: Learn CSS: Typography
+
+Thoughts: Coding is fun!
+
+Link to work: codecademy.com
+
+
+<h2>#Day13: January 27, 2021</h2>
 
 Today's Progress: 
 
@@ -109,3 +127,47 @@ Thoughts:
 
 Link to work: 
 
+
+<h2>#Day14: January 28, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day15: January 29, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day16: January 30, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day17: January 31, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: January , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
