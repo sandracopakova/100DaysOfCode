@@ -121,11 +121,11 @@ Link to work: codecademy.com
 
 <h2>#Day13: January 27, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Build Your Own Cheat Sheet
 
-Thoughts: 
+Thoughts: I found new sites - dribbble.com, collectui.com
 
-Link to work: 
+Link to work: https://dribbble.com/search, https://collectui.com/designs
 
 
 <h2>#Day14: January 28, 2021</h2>
