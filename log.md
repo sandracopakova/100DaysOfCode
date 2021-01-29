@@ -130,20 +130,20 @@ Link to work: https://dribbble.com/search, https://collectui.com/designs
 
 <h2>#Day14: January 28, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Review: Web Development Fundamentals, Introduction: Improved Styling with CSS, Learn CSS: The Box Model, Forms
 
-Thoughts: 
+Thoughts: Big steps
 
-Link to work: 
+Link to work: codecademy.com https://www.youtube.com/watch?v=uQi8TK-GDO4&feature=emb_title
 
 
 <h2>#Day15: January 29, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn CSS: Display and Positioning, Forms
 
-Thoughts: 
+Thoughts: I finally understand the difference between inline/block/inline-block! Huray
 
-Link to work: 
+Link to work: https://www.codecademy.com/profiles/Violinie/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7
 
 
 <h2>#Day16: January 30, 2021</h2>
@@ -164,7 +164,7 @@ Thoughts:
 Link to work: 
 
 
-<h2>#Day: January , 2021</h2>
+<h2>#Day: February 1, 2021</h2>
 
 Today's Progress: 
 
