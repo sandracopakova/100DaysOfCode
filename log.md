@@ -152,16 +152,16 @@ Today's Progress:
 
 Thoughts: 
 
-Link to work: 
+Link to work: codecademy.com https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 
 <h2>#Day17: January 31, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn CSS: Documentation and Debugging, Fotomatic project
 
-Thoughts: 
+Thoughts: How can I import font (@font-face) I'm just lost...
 
-Link to work: 
+Link to work: codecademy.com
 
 
 <h2>#Day: February 1, 2021</h2>
