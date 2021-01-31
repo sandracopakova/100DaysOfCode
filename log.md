@@ -148,20 +148,20 @@ Link to work: https://www.codecademy.com/profiles/Violinie/certificates/9eb0741e
 
 <h2>#Day16: January 30, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn CSS: Documentation and Debugging, Fotomatic project
 
-Thoughts: 
+Thoughts: How can I import font (@font-face) I'm just lost...
 
 Link to work: codecademy.com https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 
 <h2>#Day17: January 31, 2021</h2>
 
-Today's Progress: Learn CSS: Documentation and Debugging, Fotomatic project
+Today's Progress: Fotomatic project
 
-Thoughts: How can I import font (@font-face) I'm just lost...
+Thoughts: 
 
-Link to work: codecademy.com
+Link to work: 
 
 
 <h2>#Day: February 1, 2021</h2>
