@@ -159,15 +159,52 @@ Link to work: codecademy.com https://developer.mozilla.org/en-US/docs/Web/CSS/Re
 
 Today's Progress: Fotomatic project
 
-Thoughts: 
+Thoughts: A little problem with media queries, but I'm done!
 
-Link to work: 
+Link to work: codecademy.com
 
 
-<h2>#Day: February 1, 2021</h2>
+<h2>#Day18: February 1, 2021</h2>
+
+Today's Progress: Learn Color Theory
+
+Thoughts: Super usefull
+
+Link to work: codecademy.com https://color.adobe.com/cs/create/color-wheel
+
+
+<h2>#Day19: February 2, 2021</h2>
+
+Today's Progress: Learn Color For UI
+
+Thoughts: I know, that I am a better coder than a designer :D 
+
+Link to work: codecademy.com https://brandcolors.net/, http://colorsafe.co/, https://webaim.org/resources/contrastchecker/, https://cloudflare.design/color
+
+
+<h2>#Day20: February 3, 2021</h2>
 
 Today's Progress: 
 
 Thoughts: 
 
-Link to work: 
+Link to work:
+
+
+<h2>#Day21: February 4, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work:
+
+
+<h2>#Day: February , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work:
+
