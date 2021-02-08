@@ -240,7 +240,7 @@ Link to work:
 
 <h2>#Day26: February 9, 2021</h2>
 
-Today's Progress: Learn Secondary Navigation
+Today's Progress: 
 
 Thoughts: 
 
@@ -249,7 +249,7 @@ Link to work:
 
 <h2>#Day27: February 10, 2021</h2>
 
-Today's Progress: Learn Secondary Navigation
+Today's Progress: 
 
 Thoughts: 
 
@@ -258,7 +258,7 @@ Link to work:
 
 <h2>#Day28: February 11, 2021</h2>
 
-Today's Progress: Learn Secondary Navigation
+Today's Progress: 
 
 Thoughts: 
 
@@ -267,7 +267,7 @@ Link to work:
 
 <h2>#Day: February , 2021</h2>
 
-Today's Progress: Learn Secondary Navigation
+Today's Progress: 
 
 Thoughts: 
 
