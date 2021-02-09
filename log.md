@@ -184,48 +184,48 @@ Link to work: codecademy.com https://brandcolors.net/, http://colorsafe.co/, htt
 
 <h2>#Day20: February 3, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn Text Design
 
-Thoughts: 
+Thoughts: Bad day. Low energy, not in the mood... 
 
-Link to work:
+Link to work: codecademy.com
 
 
 <h2>#Day21: February 4, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn Text Design
 
-Thoughts: 
+Thoughts: Better than yesterday, a bit boring
 
-Link to work:
+Link to work: codecademy.com https://reliablepsd.com/ultimate-google-font-pairings/
 
 
 <h2>#Day22: February 5, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn Links and Buttons
 
-Thoughts: 
+Thoughts: :-)
 
-Link to work:
+Link to work: codecademy.com
 
 
 <h2>#Day23: February 6, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn Links and Buttons
 
-Thoughts: 
+Thoughts: Great today! In love with buttons
 
-Link to work:
+Link to work: codecademy.com http://ui-patterns.com
 
 
 
 <h2>#Day24: February 7, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn Secondary Navigation
 
-Thoughts: 
+Thoughts: :-)
 
-Link to work:
+Link to work: codecademy.com
 
 
 
@@ -233,14 +233,14 @@ Link to work:
 
 Today's Progress: Learn Secondary Navigation
 
-Thoughts: 
+Thoughts: Lost in pseudo elements
 
-Link to work:
+Link to work: codecademy.com
 
 
 <h2>#Day26: February 9, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Build A Website Design System
 
 Thoughts: 
 
