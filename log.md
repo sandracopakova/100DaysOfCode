@@ -265,12 +265,12 @@ Thoughts:
 Link to work:
 
 
-<h2>#Day: February , 2021</h2>
+<h2>#Day29: February 12, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Responsive Web Design
 
 Thoughts: 
 
-Link to work:
+Link to work: https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
 
 
