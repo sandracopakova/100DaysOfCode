@@ -242,35 +242,80 @@ Link to work: codecademy.com
 
 Today's Progress: Build A Website Design System
 
-Thoughts: 
+Thoughts: Good start
 
-Link to work:
+Link to work: codecademy.com
 
 
 <h2>#Day27: February 10, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Build A Website Design System
 
-Thoughts: 
+Thoughts: I can't decide the colors :D
 
-Link to work:
+Link to work: codecademy.com
 
 
 <h2>#Day28: February 11, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Build A Website Design System
 
-Thoughts: 
+Thoughts: Round corners, box-shadow etc. -> looks better
 
-Link to work:
+Link to work: codecademy.com
 
 
 <h2>#Day29: February 12, 2021</h2>
 
 Today's Progress: Responsive Web Design
 
-Thoughts: 
+Thoughts: Reading marathon
 
 Link to work: https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
+
+
+<h2>#Day30: February 13, 2021</h2>
+
+Today's Progress: Responsive Web Design
+
+Thoughts: Tomorrow I'll be hopefully done with this topic
+
+Link to work: codecademy.com
+
+
+<h2>#Day: February , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: February , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: February , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: February , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
 
 
