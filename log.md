@@ -283,13 +283,13 @@ Thoughts: Tomorrow I'll be hopefully done with this topic
 Link to work: codecademy.com
 
 
-<h2>#Day: February , 2021</h2>
+<h2>#Day31: February 14, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Responsive Web Design
 
 Thoughts: 
 
-Link to work: 
+Link to work: codecademy.com https://content.codecademy.com/courses/freelance-1/unit-5/screen-sizes.png
 
 
 <h2>#Day: February , 2021</h2>
