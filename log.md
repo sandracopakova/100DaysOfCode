@@ -287,9 +287,9 @@ Link to work: codecademy.com
 
 Today's Progress: Responsive Web Design
 
-Thoughts: 
+Thoughts: I wish it would always be so easy in the future
 
-Link to work: codecademy.com https://content.codecademy.com/courses/freelance-1/unit-5/screen-sizes.png
+Link to work: codecademy.com, https://content.codecademy.com/courses/freelance-1/unit-5/screen-sizes.png, https://developers.google.com/web/tools/chrome-devtools/device-mode
 
 
 <h2>#Day: February , 2021</h2>
