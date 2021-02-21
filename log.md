@@ -294,11 +294,70 @@ Link to work: codecademy.com, https://content.codecademy.com/courses/freelance-1
 
 <h2>#Day32: February 15, 2021</h2>
 
-Today's Progress: Responsive Web Design
+Today's Progress: Responsive Web Design, Layout with Flexbox
+
+Thoughts: Good music is one of the most important things for work (and it doesn't always have to be a lofi)
+
+Link to work: codecademy.com https://www.taniarascia.com/you-dont-need-a-framework/
+
+
+<h2>#Day33: February 16, 2021</h2>
+
+Today's Progress: Layout with Flexbox
+
+Thoughts: I can't post on twitter every day...
+
+Link to work: codecademy.com
+
+
+<h2>#Day34: February 17, 2021</h2>
+
+Today's Progress: Layout with Flexbox
+
+Thoughts: I canť do it... I can't be an coder, let alone a programmer
+
+Link to work: codecademy.com
+
+
+
+<h2>#Day35: February 18, 2021</h2>
+
+Today's Progress: Layout with Flexbox
+
+Thoughts: Better, but I'm still lost
+
+Link to work: codecademy.com
+
+
+
+<h2>#Day36: February 19, 2021</h2>
+
+Today's Progress: Layout with Flexbox
+
+Thoughts: Done with flexbox project! Huray!
+
+Link to work: codecademy.com
+
+
+
+<h2>#Day37: February 20, 2021</h2>
+
+Today's Progress: Learn Responsive Design: Grids and Spacing
+
+Thoughts: Just introduction, hope it'll be better than flexbox :D
+
+Link to work: codecademy.com
+
+
+
+<h2>#Day38: February 21, 2021</h2>
+
+Today's Progress: Learn CSS: Grid
 
 Thoughts: 
 
-Link to work: codecademy.com https://www.taniarascia.com/you-dont-need-a-framework/
+Link to work: codecademy.com
+
 
 
 <h2>#Day: February , 2021</h2>
@@ -308,6 +367,7 @@ Today's Progress:
 Thoughts: 
 
 Link to work: 
+
 
 
 <h2>#Day: February , 2021</h2>
