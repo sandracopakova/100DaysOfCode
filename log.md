@@ -360,7 +360,26 @@ Link to work: codecademy.com
 
 
 
-<h2>#Day: February , 2021</h2>
+<h2>#Day39: February 22, 2021</h2>
+
+Today's Progress: Learn CSS: Grid
+
+Thoughts: 
+
+Link to work: codecademy.com
+
+
+
+<h2>#Day40: February 23, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day41: February 24, 2021</h2>
 
 Today's Progress: 
 
@@ -370,12 +389,52 @@ Link to work:
 
 
 
-<h2>#Day: February , 2021</h2>
+<h2>#Day42: February 25, 2021</h2>
 
 Today's Progress: 
 
 Thoughts: 
 
 Link to work: 
+
+
+
+<h2>#Day43: February 26, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day44: February 27, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day45: February 28, 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+
 
 
