@@ -354,7 +354,7 @@ Link to work: codecademy.com
 
 Today's Progress: Learn CSS: Grid
 
-Thoughts: 
+Thoughts: Yes - grid is way better than flexbox <3
 
 Link to work: codecademy.com
 
