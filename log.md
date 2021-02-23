@@ -372,20 +372,20 @@ Link to work: codecademy.com
 
 <h2>#Day40: February 23, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn CSS: Grid
 
 Thoughts: 
 
-Link to work: 
+Link to work: codecademy.com
 
 
 <h2>#Day41: February 24, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Learn CSS: Grid
 
 Thoughts: 
 
-Link to work: 
+Link to work: codecademy.com https://css-tricks.com/snippets/css/complete-guide-grid/ https://css-tricks.com/things-ive-learned-css-grid-layout/
 
 
 
