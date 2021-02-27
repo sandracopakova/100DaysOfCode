@@ -364,7 +364,7 @@ Link to work: codecademy.com
 
 Today's Progress: Learn CSS: Grid
 
-Thoughts: 
+Thoughts: It depends...
 
 Link to work: codecademy.com
 
@@ -374,7 +374,7 @@ Link to work: codecademy.com
 
 Today's Progress: Learn CSS: Grid
 
-Thoughts: 
+Thoughts: Not so bad...
 
 Link to work: codecademy.com
 
@@ -383,7 +383,7 @@ Link to work: codecademy.com
 
 Today's Progress: Learn CSS: Grid
 
-Thoughts: 
+Thoughts: Reading marathon (hate it)
 
 Link to work: codecademy.com https://css-tricks.com/snippets/css/complete-guide-grid/ https://css-tricks.com/things-ive-learned-css-grid-layout/
 
@@ -391,30 +391,30 @@ Link to work: codecademy.com https://css-tricks.com/snippets/css/complete-guide-
 
 <h2>#Day42: February 25, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Wireframing
 
-Thoughts: 
+Thoughts: I'm not creative enough
 
-Link to work: 
-
+Link to work: codecademy.com https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/ https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/
+ 
 
 
 <h2>#Day43: February 26, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Company Home Page
 
-Thoughts: 
+Thoughts: The time goes too fast...
 
-Link to work: 
+Link to work: codecademy.com
 
 
 <h2>#Day44: February 27, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Company Home Page
 
-Thoughts: 
+Thoughts:  Yesterday I thought that I finally understand flexbox - now I know that it's not true. Thank you...
 
-Link to work: 
+Link to work: codecademy.com
 
 
 <h2>#Day45: February 28, 2021</h2>
