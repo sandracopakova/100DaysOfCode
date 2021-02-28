@@ -419,11 +419,11 @@ Link to work: codecademy.com
 
 <h2>#Day45: February 28, 2021</h2>
 
-Today's Progress: 
+Today's Progress:  Company Home Page
 
-Thoughts: 
+Thoughts: Today it's just no progress and no fun
 
-Link to work: 
+Link to work: codecademy.com
 
 
 <h2>#Day: March , 2021</h2>
