@@ -426,7 +426,34 @@ Thoughts: Today it's just no progress and no fun
 Link to work: codecademy.com
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day46: March 1, 2021</h2>
+
+Today's Progress: Company Home Page
+
+Thoughts: It's ready to be public :-)
+
+Link to work: codecademy.com, https://sandracopakova.github.io/Company-Home-Page/
+
+
+<h2>#Day47: March 2, 2021</h2>
+
+Today's Progress: Responsive Club Website
+
+Thoughts: So great! I did most of the work so easy and quickly :-) in flow
+
+Link to work: 
+
+
+<h2>#Day48: March 3, 2021</h2>
+
+Today's Progress: Responsive Club Website
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day49: March 4, 2021</h2>
 
 Today's Progress: 
 
