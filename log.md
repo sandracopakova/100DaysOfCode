@@ -444,67 +444,67 @@ Thoughts: So great! I did most of the work so easy and quickly :-) in flow
 Link to work: codecademy.com
 
 
-<h2>#Day: March 3, 2021</h2>
+<h2>#Day48: March 3, 2021</h2>
 
 Today's Progress: Responsive Club Website
 
-Thoughts: Done :-) PS: I'm so bad with github... -.-
+Thoughts: Done :-) PS: I'm so bad with github... -.- 
 
-Link to work: codecademy.com
+Link to work: codecademy.com https://sandracopakova.github.io/Responsive-Club-Website/
 
 
-<h2>#Day: March 4, 2021</h2>
+<h2>#Day49: March 4, 2021</h2>
 
 Today's Progress: Introducing: JavaScript Syntax, JavaScript in Web development
 
-Thoughts: Nothing fancy yet
+Thoughts: Nothing special yet
 
 Link to work: codecademy.com
 
 
-<h2>#Day: March 5, 2021</h2>
+<h2>#Day50: March 5, 2021</h2>
 
 Today's Progress: Personal web for Lucie (first order)
 
 Thoughts: Ok, why am I so chaotic?
 
-Link to work: 
+Link to work: https://github.com/sandracopakova/Lucie-Kneslova
 
 
-<h2>#Day: March 6, 2021</h2>
+<h2>#Day51: March 6, 2021</h2>
 
 Today's Progress: Personal web for Lucie
 
 Thoughts: Seems great
 
-Link to work: 
+Link to work: https://github.com/sandracopakova/Lucie-Kneslova
 
 
-<h2>#Day: March 7, 2021</h2>
+<h2>#Day52: March 7, 2021</h2>
 
 Today's Progress: Personal web for Lucie
 
 Thoughts: So far so good
 
-Link to work: 
+Link to work: https://github.com/sandracopakova/Lucie-Kneslova
 
 
-<h2>#Day: March 8, 2021</h2>
+<h2>#Day53: March 8, 2021</h2>
 
 Today's Progress: Personal web for Lucie
 
 Thoughts: The main is done but I often have thoughts that I can not do it, because it's too hard and I'm still not good enough...
 
-Link to work: 
+Link to work: https://sandracopakova.github.io/Lucie-Kneslova/
 
 
-<h2>#Day: March 9, 2021</h2>
+<h2>#Day54: March 9, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Minor adjustments, organization...
 
-Thoughts: 
+Thoughts: Nothing to say
 
-Link to work: 
+Link to work: https://github.com/
 
 
 <h2>#Day: March , 2021</h2>
