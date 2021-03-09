@@ -448,7 +448,7 @@ Link to work: codecademy.com
 
 Today's Progress: Responsive Club Website
 
-Thoughts: Done :-) 
+Thoughts: Done :-) PS: I'm so bad with github... -.-
 
 Link to work: codecademy.com
 
