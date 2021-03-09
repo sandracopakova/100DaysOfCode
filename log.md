@@ -441,25 +441,80 @@ Today's Progress: Responsive Club Website
 
 Thoughts: So great! I did most of the work so easy and quickly :-) in flow
 
-Link to work: 
+Link to work: codecademy.com
 
 
-<h2>#Day48: March 3, 2021</h2>
+<h2>#Day: March 3, 2021</h2>
 
 Today's Progress: Responsive Club Website
 
-Thoughts: 
+Thoughts: Done :-) 
+
+Link to work: codecademy.com
+
+
+<h2>#Day: March 4, 2021</h2>
+
+Today's Progress: Introducing: JavaScript Syntax, JavaScript in Web development
+
+Thoughts: Nothing fancy yet
+
+Link to work: codecademy.com
+
+
+<h2>#Day: March 5, 2021</h2>
+
+Today's Progress: Personal web for Lucie (first order)
+
+Thoughts: Ok, why am I so chaotic?
 
 Link to work: 
 
 
-<h2>#Day49: March 4, 2021</h2>
+<h2>#Day: March 6, 2021</h2>
+
+Today's Progress: Personal web for Lucie
+
+Thoughts: Seems great
+
+Link to work: 
+
+
+<h2>#Day: March 7, 2021</h2>
+
+Today's Progress: Personal web for Lucie
+
+Thoughts: So far so good
+
+Link to work: 
+
+
+<h2>#Day: March 8, 2021</h2>
+
+Today's Progress: Personal web for Lucie
+
+Thoughts: The main is done but I often have thoughts that I can not do it, because it's too hard and I'm still not good enough...
+
+Link to work: 
+
+
+<h2>#Day: March 9, 2021</h2>
 
 Today's Progress: 
 
 Thoughts: 
 
 Link to work: 
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
 
 
 
