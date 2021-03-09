@@ -504,7 +504,7 @@ Today's Progress: Minor adjustments, organization...
 
 Thoughts: Nothing to say
 
-Link to work: https://github.com/
+Link to work: https://github.com/, https://github.com/sandracopakova/100DaysOfCode/blob/main/log.md
 
 
 <h2>#Day: March , 2021</h2>
