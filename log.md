@@ -513,6 +513,24 @@ Today's Progress:
 
 Thoughts: 
 
+Link to work: codecademy.com, https://code.visualstudio.com/docs/nodejs/working-with-javascript
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
+Link to work: 
+
+
+<h2>#Day: March , 2021</h2>
+
+Today's Progress: 
+
+Thoughts: 
+
 Link to work: 
 
 
