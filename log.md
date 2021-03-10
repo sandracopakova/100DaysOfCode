@@ -509,9 +509,9 @@ Link to work: https://github.com/, https://github.com/sandracopakova/100DaysOfCo
 
 <h2>#Day: March , 2021</h2>
 
-Today's Progress: 
+Today's Progress: Running JavaScript, Learn JavaScript Syntax: Introduction
 
-Thoughts: 
+Thoughts: Inhale.. Exhale... Yes. It is finally here. JS. 
 
 Link to work: codecademy.com, https://code.visualstudio.com/docs/nodejs/working-with-javascript
 
