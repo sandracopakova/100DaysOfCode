@@ -507,7 +507,7 @@ Thoughts: Nothing to say
 Link to work: https://github.com/, https://github.com/sandracopakova/100DaysOfCode/blob/main/log.md
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day55: March 10, 2021</h2>
 
 Today's Progress: Running JavaScript, Learn JavaScript Syntax: Introduction
 
@@ -516,11 +516,29 @@ Thoughts: Inhale.. Exhale... Yes. It is finally here. JS.
 Link to work: codecademy.com, https://code.visualstudio.com/docs/nodejs/working-with-javascript
 
 
-<h2>#Day: March , 2021</h2>
+<h2>#Day56: March 11, 2021</h2>
 
-Today's Progress: 
+Today's Progress: Nothing. I didn't do any work.
 
-Thoughts: 
+Thoughts: I broke the streak... Can I continue?
+
+Link to work: XXX
+
+
+<h2>#Day57: March 12, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Conditionals
+
+Thoughts: Still good...
+
+Link to work: codecademy.com
+
+
+<h2>#Day58: March 13, 2021</h2>
+
+Today's Progress: Intro to Mozilla Developer Network, Learn JavaScript Syntax: Conditionals
+
+Thoughts: javascript is so frustrating
 
 Link to work: 
 
@@ -529,9 +547,10 @@ Link to work:
 
 Today's Progress: 
 
-Thoughts: 
+Thoughts:
 
 Link to work: 
+
 
 
 
