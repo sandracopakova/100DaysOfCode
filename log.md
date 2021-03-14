@@ -540,7 +540,16 @@ Today's Progress: Intro to Mozilla Developer Network, Learn JavaScript Syntax: C
 
 Thoughts: javascript is so frustrating
 
-Link to work: 
+Link to work: codecademy.com
+
+
+<h2>#Day59: March 14, 2021</h2>
+
+Today's Progress: Learn JavaScript Syntax: Conditionals, Command Line for Building Websites
+
+Thoughts: I'm so glad I have so big help at home - my boyfriend
+
+Link to work: codecademy.com, https://www.codecademy.com/articles/command-line-commands
 
 
 <h2>#Day: March , 2021</h2>
